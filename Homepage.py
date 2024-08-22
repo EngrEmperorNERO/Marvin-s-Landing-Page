@@ -31,6 +31,16 @@ SOCIAL_MEDIA = {
 # Ensure set_page_config is called once and at the start
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, layout="wide")
 
+st.markdown(f"""
+    <style>
+    
+    /* Hide Streamlit header and footer */
+    header {{visibility: hidden;}}
+    footer {{visibility: hidden;}}
+    
+    </style>
+    """, unsafe_allow_html=True)
+
 # Load CSS, PDF, and Profile Pic
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)

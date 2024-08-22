@@ -1,6 +1,16 @@
 import streamlit as st
 import os
 
+st.markdown(f"""
+    <style>
+    
+    /* Hide Streamlit header and footer */
+    header {{visibility: hidden;}}
+    footer {{visibility: hidden;}}
+    
+    </style>
+    """, unsafe_allow_html=True)
+
 def load_css():
     # Define the path to the CSS file
     css_path = os.path.join(os.path.dirname(__file__), '../styles/main.css')
