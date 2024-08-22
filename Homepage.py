@@ -93,23 +93,28 @@ st.write("#")
 st.subheader("Work History")
 st.write("---")
 
-# Job 1
-st.write("**Freelance Data Analyst / Business Analyst**")
-st.write("May 2023 - Present")
+#Job 1
+st.write("**Data Analyst | E - Commerce**")
+st.write("August 2023 - June 2024")
 st.write(
     """
-    - ▶️ Collected, Clean and Combine Data from various sources.
-    - ▶️ Identify and analyze trends, patterns and anomalies in complex data sets.
-    - ▶️ Develop and managed interactive dashboards and reports to visualize data-driven insights. Own weekly performance reports and
-          insights for all aspect of operations.
-    - ▶️  Develop and maintain data models
-    - ▶️ Locate and define new process of improvement
-    - ▶️ Create Monthly and Ad-hoc reports
-    - ▶️ Analyze and gather business requirements from stakeholders
-    - ▶️ Develop python script for Automations
-    - ▶️ Develop Report Templates
+    - ▶️ Collect and clean data from various sources
+    - ▶️ Identify and analyze trends, patterns and anomalies in complex datasets.
+    - ▶️ Create and manage interactive dashboards and reports to visualize data-driven insights.
+    - ▶️ Create and maintain data models.
+    - ▶️ Locate and define new process for improvement.
+    - ▶️ Create monthly and ad-hoc reports.
+    - ▶️ Analyze and gather business requirements for stakeholders.
+    - ▶️ Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+    - ▶️ Develop automations script for Daily Reporting/Weekly Report.
+    - ▶️ Analyze and organize raw data.
+    - ▶️ Perform tailored financial analyses to assist specific projects or initiatives focused on boosting growth and profitability.
+    - ▶️ Developed KPI's that supported business growth and informed strategic decision-making.
+    - ▶️ Developed and organized Lead Generation Reporting for Marketing Team.
+    - ▶️ Develop Dashboard and KPI's for Customer Lifetime Value.
     """
 )
+
 #Job 2
 st.write("**Data Engineer Banking Industry**")
 st.write("February 2023 - August 2023")
@@ -127,7 +132,7 @@ st.write(
     """
 )
 #Job 3
-st.write("**Freelance Data Analyst E-commerece | Oregon USA**")
+st.write("**Data Analyst E-commerce | Oregon USA**")
 st.write("January 2022 - February 2023")
 st.write(
     """
@@ -145,7 +150,7 @@ st.write(
     """
 )
 #Job 4
-st.write("**Freelance Junior Logictics Analyst / Financial Analyst | Logistics Industry**")
+st.write("**Junior Logictics Analyst / Financial Analyst | Logistics Industry**")
 st.write("December 2020 - January 2022")
 st.write(
     """
@@ -157,7 +162,7 @@ st.write(
     """
 )
 #Job 5
-st.write("**Freelance Market Research Analyst | Australian Client - Real Estate**")
+st.write("**Market Research Analyst | Australian Client - Real Estate**")
 st.write("June 2020 - December 2020")
 st.write(
     """
@@ -192,7 +197,16 @@ certifications = [
     ("[Python For Data Science](https://www.credly.com/badges/54ea0eb5-b6bd-49db-a43c-d0ffeb078322/public_url)", "IBM", "January 11, 2023"),
     ("[Data Science Tools](https://www.credly.com/badges/1fd2af22-071b-497c-aec6-5808489b9ded/public_url)", "IBM", "November 4, 2022"),
     ("[Big Data Foundations](https://www.credly.com/badges/262f7067-efba-47cc-88c5-5343c2e155c2/public_url)", "IBM", "November 23, 2022"),
-    ("[Hadoop Foundations - Level 1](https://www.credly.com/badges/76320916-4c57-4583-900f-5e9b05ea2bd3/public_url)", "IBM", "November 23, 2022")
+    ("[Hadoop Foundations - Level 1](https://www.credly.com/badges/76320916-4c57-4583-900f-5e9b05ea2bd3/public_url)", "IBM", "November 23, 2022"),
+    ("Foundations for Big Data Analysis SQL", "Cloudera", "December 19, 2022"),
+    ("Engineer Data in Google Cloud", "Google Cloud Pinas", "Novembe 18, 2022"),
+    ("Migrate MySQL Data To Cloud SQL Using Database Migration Service", "Google Cloud Pinas", "Novembe 16, 2022"),
+    ("BigQuery Basic for Data Analyst", "Google Cloud Pinas", "Novembe 17, 2022"),
+    ("Insights from Data with BigQuery", "Google Cloud Pinas", "Novembe 17, 2022"),
+    ("Exploring Data with Looker", "Google Cloud Pinas", "Novembe 19, 2022"),
+    ("Data Catalog Fundamentals", "Google Cloud Pinas", "Novembe 19, 2022"),
+    ("IBM Data Science Practitioner", "IBM", "Novembe 30, 2023")
+    
 ]
 
 # Divide into 2 columns
