@@ -149,7 +149,7 @@ st.write(
     - ▶️ Create report for internal teams and/or external clients Collaborate with team members to collect and analyze data.
     - ▶️ Use graphs, infographs and other methods to visualize data Establish KPIs to measure the effectiveness of business decisions Structure large data sets to find usable information.
     - ▶️ Work with a team of analysts and other associates to process information.
-    - ▶️ Create presetations and reports based on recommendations and findings.
+    - ▶️ Create presentations and reports based on recommendations and findings.
     - ▶️ Evaluate business needs and objectives.
     - ▶️ Interpret trends and patterns.
     - ▶️ Develop and track KPIs to inform strategic business decisions.
