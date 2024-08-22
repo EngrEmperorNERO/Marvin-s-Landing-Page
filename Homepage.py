@@ -83,7 +83,6 @@ st.write(
     - 💻 Data pipelines development 
     - 💻 Data Mapping
     - 💻 Data Processing (Data transformation, Data Cleaning, Data wrangling)
-    - 💻 Processing Data (Data transformation, Data Cleaning, Data wrangling)
     - 💻 Data Analysis (Descriptive, Predictive, Diagnostic, Exploratory, Regression)
     """
 )

@@ -57,7 +57,7 @@ with col1:
     - Line Graph of Listing Volume per Year
     - Dropdown option for filtering property listings Date Range
     - Data Source comes from https://www.realestate.co.nz/residential/sale
-    - A python script will scrape the posting on the website and then will load on the dashboard.
+    - The Source of data is from scraped from https://www.realestate.co.nz After scraping, Additional python script will clean the data and then will be loaded on the dashboard.
     """)
     st.write("***Link: https://realestatenzdash-fgutiz3x7zjxkxkxefjcte.streamlit.app/***")
 
