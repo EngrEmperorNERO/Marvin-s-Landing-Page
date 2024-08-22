@@ -208,13 +208,13 @@ certifications = [
     ("[Big Data Foundations](https://www.credly.com/badges/262f7067-efba-47cc-88c5-5343c2e155c2/public_url)", "IBM", "November 23, 2022"),
     ("[Hadoop Foundations - Level 1](https://www.credly.com/badges/76320916-4c57-4583-900f-5e9b05ea2bd3/public_url)", "IBM", "November 23, 2022"),
     ("Foundations for Big Data Analysis SQL", "Cloudera", "December 19, 2022"),
-    ("Engineer Data in Google Cloud", "Google Cloud Pinas", "Novembe 18, 2022"),
-    ("Migrate MySQL Data To Cloud SQL Using Database Migration Service", "Google Cloud Pinas", "Novembe 16, 2022"),
-    ("BigQuery Basic for Data Analyst", "Google Cloud Pinas", "Novembe 17, 2022"),
-    ("Insights from Data with BigQuery", "Google Cloud Pinas", "Novembe 17, 2022"),
-    ("Exploring Data with Looker", "Google Cloud Pinas", "Novembe 19, 2022"),
-    ("Data Catalog Fundamentals", "Google Cloud Pinas", "Novembe 19, 2022"),
-    ("IBM Data Science Practitioner", "IBM", "Novembe 30, 2023")
+    ("Engineer Data in Google Cloud", "Google Cloud Pinas", "November 18, 2022"),
+    ("Migrate MySQL Data To Cloud SQL Using Database Migration Service", "Google Cloud Pinas", "November 16, 2022"),
+    ("BigQuery Basic for Data Analyst", "Google Cloud Pinas", "November 17, 2022"),
+    ("Insights from Data with BigQuery", "Google Cloud Pinas", "November 17, 2022"),
+    ("Exploring Data with Looker", "Google Cloud Pinas", "November 19, 2022"),
+    ("Data Catalog Fundamentals", "Google Cloud Pinas", "November 19, 2022"),
+    ("IBM Data Science Practitioner", "IBM", "November 30, 2023")
     
 ]
 
