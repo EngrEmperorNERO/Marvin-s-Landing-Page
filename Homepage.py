@@ -14,7 +14,7 @@ PAGE_TITLE = "Personal Landing Website | Marvin Baesa"
 PAGE_ICON = ":wave:"
 NAME = "Marvin Baesa"
 DESCRIPTION = """
-A dedicated and results-driven data analyst with more than three years of experience in the field. 
+A dedicated and results-driven data analyst with more than four years of experience in the field. 
 My passion lies in unlocking valuable insights from complex data sets and using them to drive informed decision-making. 
 With a strong background in data analysis and visualization, I specialize in data cleaning, transformation, visualization, data modelling / data mapping, data integration, data pipelines, ETL's and storytelling, as well as report generation and automation. 
 I also have working knowledge with tools such as Power BI, Salesforce, Python, SQL, and advanced working knowledge in Excel, databases, tableau and MS Access. 
