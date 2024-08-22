@@ -56,7 +56,7 @@ with col1:
     - Graphical Data of Average Days on Market by Region
     - Line Graph of Listing Volume per Year
     - Dropdown option for filtering property listings Date Range
-    - Data Source comes from www.RealestateNZ.com
+    - Data Source comes from https://www.realestate.co.nz/residential/sale
     - A python script will scrape the posting on the website and then will load on the dashboard.
     """)
     st.write("***Link: https://realestatenzdash-fgutiz3x7zjxkxkxefjcte.streamlit.app/***")
@@ -76,7 +76,7 @@ with col1:
     - The dashboard visualizes key metrics using Plotly, including bar charts for average rent and average days on market by region, and a line chart for property listing volume over time. The charts are styled with customized colors, fonts, and layouts.
     - The app includes custom CSS for consistent styling, such as setting background colors, adjusting sidebar colors, and customizing the appearance of chart elements. The main background is light gray, with sidebar and chart colors aligned to the user’s theme preferences.
     - Key statistics, such as the number of properties scraped and the average rent, are prominently displayed using styled information cards. The cards are color-coordinated to match the theme, with white text on colored backgrounds.
-    - The Source of data is from scraped from www.TrademeNZ.com. After scraping, Additional python script will clean the data and then will be loaded on the dashboard.
+    - The Source of data is from scraped from https://www.trademe.co.nz/a/ After scraping, Additional python script will clean the data and then will be loaded on the dashboard.
                 """)
     st.write("***Link: https://trademenzdash-e8tptjqt8dfpxu9vfpzob4.streamlit.app/***")
 
