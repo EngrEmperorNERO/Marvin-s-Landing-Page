@@ -70,6 +70,7 @@ st.markdown("<hr style='border: 1px solid black;'>", unsafe_allow_html=True)
 st.markdown("<h1 style='color: black;'>TradeME NZ Property Listings Dashboard</h1>", unsafe_allow_html=True)
 col1, col2 = st.columns([2, 1], gap="large")  # Adjust column width ratio
 
+
 with col1:
     st.markdown("""
     - The script creates a Streamlit dashboard that allows users to filter property data by region, suburb, number of bedrooms, number of bathrooms, and listing date range. The filters are implemented as multi-select dropdowns and a date range selector in the sidebar.
