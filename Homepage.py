@@ -106,7 +106,7 @@ st.write(
     - ▶️ Analyze and gather business requirements for stakeholders.
     - ▶️ Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
     - ▶️ Develop automations script for Daily Reporting/Weekly Report.
-    - ▶️ Analyze and organize raw data.
+    - ▶️ Analyze and Organize raw data.
     - ▶️ Perform tailored financial analyses to assist specific projects or initiatives focused on boosting growth and profitability.
     - ▶️ Developed KPI's that supported business growth and informed strategic decision-making.
     - ▶️ Developed and organized Lead Generation Reporting for Marketing Team.
